@@ -1,3 +1,4 @@
+Meal_choice ('carrots', "string bean", "lentils")
 
 def meal_choice(veg1, veg2, protien ='tofu')
 end
